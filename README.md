@@ -6,9 +6,7 @@ Amigo secreto es un divertido programa que elige entre una cantidad n de nombres
 
 - [Instalación](#instalación)
 - [Imagenes](#imagenes)
-- [Características](#características)
 - [Contribución](#contribución)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
   
 ## ⚙️ Instalación
@@ -17,7 +15,7 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 ```
 # Clona el repositorio
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+git clone https://github.com/flaviogastonok/Amigo-Secreto.git
 
 # Entra en la carpeta del proyecto
 cd nombre-del-proyecto
@@ -26,10 +24,31 @@ cd nombre-del-proyecto
 ## 🖼️ Imagenes
 
 Imagenes ilustrativas del proyecto.
-```
+
 ![Captura de pantalla](img/img1.png)
+![Captura de pantalla](img/img2.png)
+![Captura de pantalla](img/img3.png)
 
-```
+## 🛠️ Contribución
+Las contribuciones son bienvenidas
+1. Haz un fork del repositorio
+2. Crea una nueva rama para tu contribución:
+   ```
+    git checkout -b feature/nueva-funcionalidad
+   ```
+3. Realiza tus cambios y haz commit:
+     ```
+    git commit -m "Agrega nueva funcionalidad"
+     ```
+4. Sube tus cambios al repositorio remoto:
+    ```
+    git push origin feature/nueva-funcionalidad
+    ```
+5. Abre un Pull Request en GitHub.
 
+## 📩 Contacto
 
+Si tienes preguntas o sugerencias, puedes contactarme:
 
+📧 Email: flaviogaston88@gmail.com
+🐙 GitHub: flaviogastonok

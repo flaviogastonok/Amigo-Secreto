@@ -27,7 +27,9 @@ cd nombre-del-proyecto
 
 Imagenes ilustrativas del proyecto.
 ```
+![Captura de pantalla](img/img1.png)
 
 ```
+
 
 

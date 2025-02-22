@@ -4,10 +4,10 @@ Amigo secreto es un divertido programa que elige entre una cantidad n de nombres
 
 ## 📌 Tabla de Contenidos
 
- [Instalación](#instalación)
- [Imágenes](#imágenes)
- [Contribución](#contribución)
- [Contacto](#contacto)
+ - [Instalación](#instalación)
+ - [Imágenes](#imágenes)
+ - [Contribución](#contribución)
+ - [Contacto](#contacto)
   
 ## ⚙️ Instalación
 

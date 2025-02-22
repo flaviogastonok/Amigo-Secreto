@@ -50,5 +50,5 @@ Las contribuciones son bienvenidas
 
 Si tienes preguntas o sugerencias, puedes contactarme:
 
-📧 Email: flaviogaston88@gmail.com
-🐙 GitHub: flaviogastonok
+- 📧 Email: [flaviogaston88@gmail.com](#flaviogaston88@gmail.com)
+- 🐙 GitHub: [flaviogastonok](#flaviogastonok)

@@ -5,7 +5,7 @@ Amigo secreto es un divertido programa que elige entre una cantidad n de nombres
 ## 📌 Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Imagenes](#imagenes)
+- [Imágenes](#imágenes)
 - [Contribución](#contribución)
 - [Contacto](#contacto)
   
@@ -21,7 +21,7 @@ git clone https://github.com/flaviogastonok/Amigo-Secreto.git
 cd nombre-del-proyecto
 ```
 
-## 🖼️ Imagenes
+## 🖼️ Imágenes
 
 Imagenes ilustrativas del proyecto.
 

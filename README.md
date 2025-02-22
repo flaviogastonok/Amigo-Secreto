@@ -13,11 +13,13 @@ Amigo secreto es un divertido programa que elige entre una cantidad n de nombres
 
 Sigue estos pasos para instalar y configurar el proyecto:
 
-```bash
-# Clona el repositorio
-git clone https://github.com/flaviogastonok/Amigo-Secreto.git
 
-# Entra en la carpeta del proyecto
+### Clona el repositorio
+```
+git clone https://github.com/flaviogastonok/Amigo-Secreto.git
+```
+### Entra en la carpeta del proyecto
+```
 cd nombre-del-proyecto
 ```
 
